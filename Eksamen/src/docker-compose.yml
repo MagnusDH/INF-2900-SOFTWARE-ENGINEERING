@@ -1,0 +1,18 @@
+version: "3.8"
+services:
+  backend:
+    build: ./backend
+    container_name: 2900-server
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+    command: pipenv run python manage.py runserver 0.0.0.0:8000
+  frontend:
+    build: ./frontend
+    container_name: 2900-site
+    image: 2900-site
+    volumes:
+      - ./frontend/src:/app/src
+    ports:
+      - 5173:5173

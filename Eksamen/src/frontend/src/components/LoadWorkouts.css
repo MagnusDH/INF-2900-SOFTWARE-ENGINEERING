@@ -1,0 +1,25 @@
+.LoadWorkoutReplayButton{
+  background-color: green;
+  font-size: 20px;
+  padding: 0px;
+  margin-left: 10px;
+}
+
+.LoadWorkoutReplayButton:hover{
+  background-color: rgb(0, 97, 0);
+}
+
+.LoadWorkoutDeleteButton{
+  background-color: red;
+  font-size: 20px;
+  padding: 0px;
+  margin-left: 10px;
+}
+
+.LoadWorkoutDeleteButton:hover{
+  background-color: rgb(177, 0, 0);
+}
+
+.LoadWorkoutList {
+  font-size: 30px;
+}

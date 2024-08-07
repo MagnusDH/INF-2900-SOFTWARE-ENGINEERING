@@ -1,0 +1,112 @@
+[
+  {
+    "model": "skooba.WorkoutExercise",
+    "pk": 1,
+    "fields": {
+      "workout": 1,
+      "exercise": 1,
+      "rest": 60,
+      "reps": "10, 8, 6",
+      "sets": 3
+    }
+  },
+  {
+    "model": "skooba.WorkoutExercise",
+    "pk": 2,
+    "fields": {
+      "workout": 1,
+      "exercise": 2,
+      "rest": 30,
+      "reps": "12, 12, 12",
+      "sets": 3
+    }
+  },
+  {
+    "model": "skooba.WorkoutExercise",
+    "pk": 3,
+    "fields": {
+      "workout": 2,
+      "exercise": 3,
+      "rest": 45,
+      "reps": "15, 12, 10",
+      "sets": 3
+    }
+  },
+  {
+    "model": "skooba.WorkoutExercise",
+    "pk": 4,
+    "fields": {
+      "workout": 2,
+      "exercise": 4,
+      "rest": 60,
+      "reps": "8, 6, 4",
+      "sets": 3
+    }
+  },
+  {
+    "model": "skooba.WorkoutExercise",
+    "pk": 5,
+    "fields": {
+    "workout": 1,
+    "exercise": 5,
+    "rest": 60,
+    "reps": "10, 8, 6",
+    "sets": 3
+    }
+  },
+  {
+    "model": "skooba.WorkoutExercise",
+    "pk": 6,
+    "fields": {
+    "workout": 1,
+    "exercise": 6,
+    "rest": 45,
+    "reps": "12, 10, 8",
+    "sets": 4
+    }
+  },
+  {
+    "model": "skooba.WorkoutExercise",
+    "pk": 7,
+    "fields": {
+    "workout": 2,
+    "exercise": 7,
+    "rest": 30,
+    "reps": "15, 12, 10",
+    "sets": 3
+    }
+  },
+  {
+    "model": "skooba.WorkoutExercise",
+    "pk": 8,
+    "fields": {
+    "workout": 2,
+    "exercise": 8,
+    "rest": 60,
+    "reps": "8, 6, 4",
+    "sets": 4
+    }
+  },
+  {
+    "model": "skooba.WorkoutExercise",
+    "pk": 9,
+    "fields": {
+    "workout": 3,
+    "exercise": 9,
+    "rest": 45,
+    "reps": "12, 10, 8",
+    "sets": 3
+    }
+  },
+  {
+    "model": "skooba.WorkoutExercise",
+    "pk": 10,
+    "fields": {
+    "workout": 3,
+    "exercise": 10,
+    "rest": 60,
+    "reps": "10, 8, 6",
+    "sets": 4
+    }
+  }
+]

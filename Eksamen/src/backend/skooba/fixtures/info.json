@@ -1,0 +1,741 @@
+[
+  {
+    "model": "skooba.info",
+    "pk": 1,
+    "fields": {
+      "explanation": "1. Lie down on a flat bench with a barbell at chest height.\n2. Grab the bar with a shoulder-width grip and unrack it, keeping your elbows close to your body.\n3. Lower the bar to your chest, keeping your elbows at a 45-degree angle.\n4. Press the bar back up to the starting position, locking out your elbows at the top.\n5. Repeat for desired number of reps.",
+      "machine": "Barbell",
+      "exercise": 1
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 2,
+    "fields": {
+      "explanation": "1. Stand with your feet shoulder-width apart, with a barbell on your back.\n2. Squat down by bending your knees and pushing your hips back, keeping your chest up and your back straight.\n3. Squat as low as you can while maintaining good form.\n4. Drive through your heels to stand back up.\n5. Repeat for desired number of reps.",
+      "machine": "Barbell",
+      "exercise": 2
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 3,
+    "fields": {
+      "explanation": "1. Stand with your feet shoulder-width apart, with a barbell on the floor in front of you.\n2. Bend down and grab the bar with an overhand grip, with your hands slightly wider than shoulder-width apart.\n3. Keep your back straight and lift the bar up by driving through your heels.\n4. Lower the bar back down to the floor with control.\n5. Repeat for desired number of reps.",
+      "machine": "Barbell",
+      "exercise": 3
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 4,
+    "fields": {
+      "explanation": "1. Stand with your feet shoulder-width apart, holding a barbell with an underhand grip.\n2. Curl the bar up to your shoulders, keeping your elbows close to your body.\n3. Lower the bar back down to your thighs.\n4. Repeat for desired number of reps.",
+      "machine": "Barbell",
+      "exercise": 4
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 5,
+    "fields": {
+      "explanation": "1. Position yourself on parallel bars with your arms straight and your feet off the ground.\n2. Lower yourself down by bending your elbows, keeping them close to your body.\n3. Push yourself back up to the starting position by straightening your arms.\n4. Repeat for desired number of reps.",
+      "machine": "Bodyweight",
+      "exercise": 5
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 6,
+    "fields": {
+      "explanation": "1. Stand with your feet shoulder-width apart, with a dumbbell in each hand.\n2. Step forward with one leg and lower your body down until your back knee almost touches the ground.\n3. Push yourself back up to the starting position using your front leg.\n4. Repeat on the other side.\n5. Alternate legs for desired number of reps.",
+      "machine": "Dumbbell",
+      "exercise": 6
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 7,
+    "fields": {
+      "explanation": "1. Start in a plank position with your hands shoulder-width apart.\n2. Lower your body down by bending your elbows, keeping them close to your body.\n3. Push yourself back up to the starting position by straightening your arms.\n4. Repeat for desired number of reps.",
+      "machine": "Bodyweight",
+      "exercise": 7
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 8,
+    "fields": {
+      "explanation": "1. Hang from a bar with your palms facing towards you.\n2. Pull yourself up towards the bar until your chin is above it.\n3. Lower yourself back down to the starting position with control.\n4. Repeat for desired number of reps.",
+      "machine": "Bodyweight",
+      "exercise": 8
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 9,
+    "fields": {
+      "explanation": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand.\n2. Curl the dumbbells up to your shoulders, keeping your elbows close to your body.\n3. Lower the dumbbells back down to your thighs.\n4. Repeat for desired number of reps.",
+      "machine": "Dumbbell",
+      "exercise": 9
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 10,
+    "fields": {
+      "explanation": "1. Stand with your feet shoulder-width apart, with a barbell in front of you.\n2. Grab the bar with an overhand grip, with your hands slightly wider than shoulder-width apart.\n3. Shrug your shoulders up towards your ears, keeping your arms straight.\n4. Lower your shoulders back down to the starting position.\n5. Repeat for desired number of reps.",
+      "machine": "Barbell",
+      "exercise": 10
+    }
+  },
+
+ 
+
+  {
+    "model": "skooba.info",
+    "pk": 11,
+    "fields": {
+      "explanation": "1. Stand with your feet shoulder-width apart, hold a dumbbell in each hand with your arms straight and palms facing forward.\n2. Keep your elbows close to your body and curl the weights up towards your shoulders, then slowly lower them back down.",
+      "machine": "Dumbell",
+      "exercise": 11
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 12,
+    "fields": {
+      "explanation": "1. Hold a dumbbell with both hands behind your head and lower your arms so that the weight is behind your neck.\n2. Keep your elbows close to your head and straighten your arms to lift the weight.\n3. Then lower it back down behind your neck.",
+      "machine": "Dumbell",
+      "exercise": 12
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 13,
+    "fields": {
+      "explanation": "1. Stand with your feet shoulder-width apart, hold a barbell across the back of your shoulders, and lower your body by bending your knees and pushing your hips back.\n2. Keep your chest up and your back straight, and lower until your thighs are parallel to the ground.\n3. Then push back up to the starting position.",
+      "machine": "Barbell",
+      "exercise": 13
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 14,
+    "fields": {
+      "explanation": "1. Lie on your back with your knees bent and feet flat on the ground.\n2. Raise your hips up towards the ceiling, squeezing your glutes at the top, then lower your hips back down to the starting position. ",
+      "machine": "Bodyweight",
+      "exercise": 14
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 15,
+    "fields": {
+      "explanation": "1. Stand with your feet shoulder-width apart.\n2. hold a barbell in front of you with your hands shoulder-width apart and palms facing your body.\n3. Bend your knees and hinge at your hips to lower the weight towards the ground, keeping your back straight and chest up.\n4. Lift the weight back up by straightening your legs and pulling the bar towards your body.",
+      "machine": "Barbell",
+      "exercise": 15
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 16,
+    "fields": {
+      "explanation": "1. Start in a push-up position, then lower your body towards the ground.\n2. Push back up and rotate your body to one side, raising your arm towards the ceiling and keeping your feet stacked on top of each other.\n3. Lower back down and repeat on the other side.",
+      "machine": "Bodyweight",
+      "exercise": 16
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 17,
+    "fields": {
+      "explanation": "1. Lie on your back on a bench or on the floor, hold a dumbbell with both hands above your chest, and lower the weight behind your head.\n2. Keep your arms straight and don't let the weight touch the ground, then raise",
+      "machine": "Dumbell",
+      "exercise": 17
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 18,
+    "fields": {
+      "explanation": "Standing Military Press. 1. Stand with your feet shoulder-width apart and hold a barbell at shoulder level with your palms facing forward.\n2. Press the barbell overhead until your arms are fully extended, then lower it back down to your shoulders.",
+      "machine": "Barbell",
+      "exercise": 18
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 19,
+    "fields": {
+      "explanation": "1. Lie on a bench with a dumbbell in each hand.\n2. Extend your arms out to the sides, then bring them together above your chest, keeping a slight bend in your elbows.\n3. Lower the dumbbells back down to the starting position.",
+      "machine": "Barbell",
+      "exercise": 19
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 20,
+    "fields": {
+      "explanation": "1. Sit in a leg press machine with your feet on the platform in front of you.\n2. Press the platform away from your body, extending your legs, then lower it back down to the starting position.",
+      "machine": "Leg Press machine",
+      "exercise": 20
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 21,
+    "fields": {
+      "explanation": "1. Sit at a rowing machine and grasp the handle with both hands.\n2.Pull the handle towards your chest, squeezing your shoulder blades together, then release it back to the starting position.",
+      "machine": "Rowing machine",
+      "exercise": 21
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 22,
+    "fields": {
+      "explanation": "1. Stand facing a cable machine with a cable attachment in each hand.\n2. Curl the cables up towards your shoulders, then lower them back down to the starting position.",
+      "machine": "Cable machine",
+      "exercise": 22
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 23,
+    "fields": {
+      "explanation": "1. Lie on a bench with a barbell or dumbbells held above your chest.\n2. Lower the weight down towards your forehead, keeping your elbows in, then extend your arms back up to the starting position.",
+      "machine": "Barbell, bench",
+      "exercise": 23
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 24,
+    "fields": {
+      "explanation": "1. Stand in front of a bench or step with a dumbbell in each hand.\n2. Step up onto the bench with one foot, then step down with the other foot.\n3. Repeat, alternating which foot you step up with.",
+      "machine": "Barbell, bench",
+      "exercise": 24
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 25,
+    "fields": {
+      "explanation": "1. Sit at a lat pull-down machine and grasp the bar with both hands.\n2. Pull the bar down towards your chest, squeezing your shoulder blades together, then release it back to the starting position.",
+      "machine": "Barbell, bench",
+      "exercise": 25
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 26,
+    "fields": {
+      "explanation": "1.Lie on an incline bench with a barbell or dumbbells held above your chest.\n2. Lower the weight down towards your upper chest, then extend your arms back up to the starting position.",
+      "machine": "Barbell, bench",
+      "exercise": 26
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 27,
+    "fields": {
+      "explanation": "1. Bend over with a dumbbell in each hand, your palms facing in towards each other.\n2. Raise your arms out to the sides, squeezing your shoulder blades together, then lower them back down to the starting position.",
+      "machine": "Barbell, bench",
+      "exercise": 27
+    }
+  },
+
+
+
+  {
+    "model": "skooba.info",
+    "pk": 28,
+    "fields": {
+      "explanation": "1. Stand with your feet shoulder-width apart and bend your knees slightly.\n2. Hold a barbell with an overhand grip and hinge at the hips so your upper body is parallel to the ground.\n3. Pull the barbell up towards your chest, keeping your elbows close to your body",
+      "machine": "Barbell",
+      "exercise": 28
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 29,
+    "fields": {
+        "explanation": "1. Hyperextensions are performed lying face down on a hyperextension bench.\n2. With your hands behind your head or across your chest, raise your torso up until your body is in a straight line, then lower back down.\n3. This exercise targets the lower back muscles.",
+        "machine": "Hyperextension bench",
+        "exercise": 29
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 30,
+    "fields": {
+    "explanation":"1. Rack pulls are a weightlifting exercise that target the muscles of the back, primarily the erector spinae, traps, and lats.\n2. They involve lifting a barbell from an elevated position, typically from a power rack or squat rack.\n3. The starting position is set to target the lifter's specific range of motion, and the lifter then pulls the barbell up towards their hips, focusing on maintaining proper form and engaging the back muscles.",
+    "machine": "Barbell, power rack or squat rack",
+    "exercise": 30
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 31,
+    "fields": {
+    "explanation":"1. To perform pulldown with a resistance band, attach the band to a high anchor point, such as a pull-up bar or sturdy hook.\n2. Grasp the band with both hands and kneel down, facing the anchor point.\n3. Keep your arms straight and engage your back muscles to pull the band down towards your chest.\n4. Pause briefly at the bottom of the movement before returning to the starting position.\n5. Repeat for the desired number of reps.",
+    "machine": "Resistance Band",
+    "exercise": 31
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 32,
+    "fields": {
+    "explanation": "1. To perform a single-arm dumbbell row, start with a dumbbell in one hand and place the other hand and knee on a bench.\n2. Keeping your back straight, pull the dumbbell up towards your torso, squeezing your shoulder blade as you lift.\n3. Lower the weight back down and repeat for desired reps, then switch to the other arm.\n4. This exercise targets the upper back muscles, including the lats, rhomboids, and traps.\n5. It can be done with various weights and equipment, making it a versatile addition to any back workout.",
+    "machine": "Dumbbell, Bench",
+    "exercise": 32
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 33,
+    "fields": {
+    "explanation": "1. The inverted row, also known as a bodyweight row, is a great exercise for developing upper back strength and improving posture.\n2. To perform the exercise, set up a bar at about waist height and lie underneath it with your legs extended and feet on the ground.\n3. Grab the bar with an overhand grip, keeping your hands shoulder-width apart.\n4. Engage your core and pull your chest up towards the bar, squeezing your shoulder blades together at the top.\n5. Lower back down to the starting position and repeat.",
+    "machine": "Bar",
+    "exercise": 33
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 34,
+    "fields": {
+    "explanation": "1. Seated close-grip cable rows target the middle back muscles, including the rhomboids, trapezius, and latissimus dorsi.\n2. To perform this exercise, sit on a bench facing a cable machine with a close-grip attachment.\n3. Grab the attachment and pull it towards your torso while keeping your elbows close to your sides.\n4 Squeeze your shoulder blades together at the top of the movement, then slowly release the cable back to the starting position.",
+    "machine": "Cable machine with close-grip attachment",
+    "exercise": 34
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 35,
+    "fields": {
+    "explanation": "1.The prone T raise is an exercise that primarily targets the upper back and shoulders.\n2. To perform this exercise, lie face down on a bench with your arms hanging straight down and your palms facing each other.\n3. Slowly lift your arms out to the sides to form a T shape with your body, then lower them back down to the starting position.\n4. Repeat for several reps.",
+    "machine": "No machine",
+    "exercise": 35
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 36,
+    "fields": {
+    "explanation": "1.Swiss Ball Hyperextensions are a great exercise to target the lower back muscles, glutes, and hamstrings.\n2. To perform this exercise, lie face down on a Swiss ball with your hands behind your head, then slowly lift your chest and legs up while squeezing your glutes and lower back muscles.\n3. Lower your body back down and repeat for desired reps.",
+    "machine": "Swiss ball",
+    "exercise": 36
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 37,
+    "fields": {
+    "explanation": "1. To perform the exercise, lie face down on a bench with your chest against the pad and grasp the handles of a T-bar machine.\n2. Pull the weight up towards your chest, squeezing your shoulder blades together.\n3. Then slowly lower the weight back down to the starting position.\n4. Repeat for the desired number of reps.",
+    "machine": "T-Bar Machine",
+    "exercise": 37
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 38,
+    "fields": {
+    "explanation": "1.Bulgarian split squat is a lower body strength exercise that targets the quads, glutes, and hamstrings.\n2. To perform this exercise, stand with one foot forward and the other foot elevated behind you.\n3. Lower your body until your front knee is bent at a 90-degree angle, then push back up to the starting position.",
+    "machine": "",
+    "exercise": 38
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 39,
+    "fields": {
+    "explanation": "1. To perform the exercise, stand with feet hip-width apart, knees slightly bent, and hold a barbell or dumbbells in front of the thighs.\n2. Hinge at the hips and lower the weight towards the ground while keeping a slight bend in the knees, until you feel a stretch in the hamstrings.\n3. Return to starting position by squeezing your glutes and driving your hips forward.",
+    "machine": "barbell or dumbell",
+    "exercise": 39
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 40,
+    "fields": {
+    "explanation": "1. Box jumps are a plyometric exercise that can help improve power and explosiveness in the lower body.\n2. To perform a box jump, stand in front of a sturdy box or platform at a comfortable distance.\n3. Lower yourself into a quarter squat, then quickly jump up onto the box, landing softly on the balls of your feet.\n4. Step down from the box and repeat for the desired number of reps.",
+    "machine": "None",
+    "exercise": 40
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 41,
+    "fields": {
+    "explanation": "1. To perform leg curls, lie down on a leg curl machine with your ankles under the padded bar.\n2. Keeping your upper legs stationary, curl your legs towards your glutes, squeezing your hamstrings at the top of the movement.\n3. Lower the weight back down with control and repeat for your desired number of reps.",
+    "machine": "Leg curl machine",
+    "exercise": 41
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 42,
+    "fields": {
+    "explanation": "1. Pistol squats are performed without any external weight, but require a great deal of balance and stability.\n2. Begin by standing with one leg extended in front of you, then squat down on the other leg while keeping the extended leg off the ground.\n3. Use your glutes and quads to return to the starting position.\n4. Repeat on the other leg.",
+    "machine": "No machine or equipment required.",
+    "exercise": 42
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 43,
+    "fields": {
+    "explanation": "1. The sumo deadlift is a variation of the conventional deadlift that emphasizes the use of the legs over the back.\n2. To perform a sumo deadlift, stand with your feet shoulder-width apart and toes pointed outwards.\n3. Place your hands inside your thighs and lift the barbell by driving your legs and hips forward while keeping your back straight.",
+    "machine": "Barbell",
+    "exercise": 43
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 44,
+    "fields": {
+    "explanation": "1. Calf raises are an exercise that primarily targets the calf muscles.\n2. To perform a standing calf raise, stand with your feet hip-width apart and your toes facing forward.\n3. Raise up onto the balls of your feet and then lower back down.\n4. To increase the difficulty, you can add weight with dumbbells or a barbell.",
+    "machine": "None",
+    "exercise": 44
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 45,
+    "fields": {
+    "explanation": "1. To perform hack squats, stand with your back against a hack squat machine and rest the barbell on your shoulders behind you.\n2. Squat down by bending your knees and keeping your back straight.\n3. Push back up through your heels to return to the starting position.\n4. This exercise targets your quadriceps muscles.",
+    "machine": "Hack squat machine",
+    "exercise": 45
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 46,
+    "fields": {
+    "explanation": "1. To perform single leg hip thrusts, lie on your back with your knees bent and your feet flat on the ground.\n2. Lift one foot off the ground and extend your leg straight in the air.\n3. Thrust your hips upwards while keeping your shoulders and upper back on the ground.\n4. Repeat for the desired number of repetitions and then switch legs.",
+    "machine": "No machine or equipment needed.",
+    "exercise": 46
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 47,
+    "fields": {
+    "explanation": "1. To perform sled push/pull, place a sled loaded with weights in front of you.\n2. Push the sled forward by driving your feet into the ground and keeping your body in a straight line.\n3. To pull the sled towards you, attach a harness to your body and pull the sled towards you by driving your feet into the ground and keeping your body in a straight line.",
+    "machine": "Sled",
+    "exercise": 47
+    }
+  },
+  
+
+
+  {
+    "model": "skooba.info",
+    "pk": 48,
+    "fields": {
+    "explanation": "1. Preacher curls are performed by sitting at a preacher bench and placing the back of the upper arms on the angled pad.\n2. The barbell or dumbbells are then lifted towards the chin with the biceps muscles.",
+    "machine": "Preacher curl bench or dumbbells",
+    "exercise": 48
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 49,
+    "fields": {
+    "explanation": "1. Reverse curls are performed by gripping a barbell or dumbbells with palms facing down, and curling the weight upwards using the forearms.",
+    "machine": "Barbell or dumbbells",
+    "exercise": 49
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 50,
+    "fields": {
+    "explanation": "1. Concentration curls are performed by sitting down, holding a dumbbell with one arm, placing the back of the arm against the inner thigh, and curling the weight up to the shoulder using the biceps.",
+    "machine": "Dumbbells",
+    "exercise": 50
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 51,
+    "fields": {
+    "explanation": "1. Close-grip bench press is performed by lying on a bench and gripping the barbell with hands close together.\n2. Then lowering the barbell to the chest and pressing it back up using the triceps.",
+    "machine": "Barbell",
+    "exercise": 51
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 52,
+    "fields": {
+    "explanation": "1. Zottman curls are performed by holding a dumbbell in each hand with palms facing up, curling the weight up to the shoulder using the biceps, then rotating the palms to face down and lowering the weight to the starting position using the forearms.",
+    "machine": "Dumbbells",
+    "exercise": 52
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 53,
+    "fields": {
+    "explanation": "1. Spider curls are performed by lying face down on an inclined bench, holding a barbell with an underhand grip, and curling the weight up to the chest using the biceps.\n2. Then lowering the weight to the starting position using the forearms.",
+    "machine": "Inclined bench and barbell",
+    "exercise": 53
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 54,
+    "fields": {
+    "explanation": "1. Wrist curls are performed by sitting on a bench, holding a barbell or dumbbells with palms facing down, and curling the weight up and down using the wrist muscles. ",
+    "machine": "Barbell or dumbbells",
+    "exercise": 54
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 55,
+    "fields": {
+    "explanation": "1. Tricep kickbacks are performed by bending over at the waist, holding a dumbbell in one hand, and extending the arm back until it is straight, using the triceps muscle.",
+    "machine": "Dumbbells",
+    "exercise": 55
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 56,
+    "fields": {
+    "explanation": "1. Overhead tricep extension is performed by standing or sitting with a dumbbell held above the head with both hands, then bending the elbows to lower the weight behind the head, and then straightening the arms to raise the weight back up.",
+    "machine": "Dumbbell",
+    "exercise": 56
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 57,
+    "fields": {
+    "explanation": "1. Chin-ups are performed by gripping an overhead bar with palms facing towards you, and pulling yourself up until your chin is above the bar, using primarily the biceps and back muscles.",
+    "machine": "Chin-up bar",
+    "exercise": 57
+    }
+  },
+
+
+
+
+
+  {
+    "model": "skooba.info",
+    "pk": 58,
+    "fields": {
+    "explanation": "1. Cable crossovers are performed by standing in the middle of a cable machine, holding the handles and crossing them in front of your body to work the chest muscles.",
+    "machine": "Cable machine",
+    "exercise": 58
+    }
+  },  
+  {
+    "model": "skooba.info",
+    "pk": 59,
+    "fields": {
+    "explanation": "1. The chest press machine is performed by sitting at the machine and pushing the handles forward to work the chest muscles.",
+    "machine": "Chest press machine",
+    "exercise": 59
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 60,
+    "fields": {
+    "explanation": "1. The decline bench press is performed by lying on a decline bench with a barbell or dumbbells and lowering them towards the chest to work the lower part of the chest muscles.",
+    "machine": "Decline bench",
+    "exercise": 60
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 61,
+    "fields": {
+    "explanation": "1.The dumbbell bench press is performed by lying on a bench with dumbbells in hand, and pushing them up towards the ceiling to work the chest muscles.",
+    "machine": "Dumbbells and bench",
+    "exercise": 61
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 62,
+    "fields": {
+    "explanation": "1. The floor press is performed by lying on the floor with a barbell or dumbbells and pressing them up towards the ceiling while keeping the elbows on the floor to work the chest muscles.",
+    "machine": "Barbell or dumbbells",
+    "exercise": 62
+    }
+  }, 
+  {
+    "model": "skooba.info",
+    "pk": 63,
+    "fields": {
+    "explanation": "1. The guillotine press is similar to a traditional bench press, but the barbell is lowered to the neck instead of the chest to work the upper chest muscles.",
+    "machine": "Barbell and bench",
+    "exercise": 63
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 64,
+    "fields": {
+    "explanation": "1. The pec deck machine is performed by sitting at the machine and pushing the handles together in front of the body to work the chest muscles.",
+    "machine": "Pec deck machine",
+    "exercise": 64
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 65,
+    "fields": {
+    "explanation": "1. Plyometric push-ups are performed by doing explosive push-ups that involve pushing the body off the ground and clapping the hands in mid-air to work the chest muscles.",
+    "machine": "Bodyweight exercise",
+    "exercise": 65
+    }
+  }, 
+  {
+    "model": "skooba.info",
+    "pk": 66,
+    "fields": {
+    "explanation": "1. Medicine ball push-ups are performed by placing the hands on a medicine ball while doing push-ups to add an extra challenge and work the chest muscles.",
+    "machine": "Medicine ball and floor",
+    "exercise": 66
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 67,
+    "fields": {
+    "explanation": "1. The Swiss ball dumbbell chest press is performed by lying back on a Swiss ball with a dumbbell in each hand, then pressing the dumbbells up towards the ceiling, using the chest muscles.\n2. This exercise also works the core muscles as you need to stabilize your body on the unstable surface of the Swiss ball.",
+    "machine": "Swiss ball and dumbbells",
+    "exercise": 67
+    }
+  },
+
+
+
+  {
+    "model": "skooba.info",
+    "pk": 68,
+    "fields": {
+    "explanation": "1. Sit on a bench with back support and hold dumbbells at shoulder level with palms facing you.\n2. Press the dumbbells overhead while rotating your palms away from you.\n3. Lower the dumbbells to shoulder level and rotate your palms back to starting position. Repeat for desired reps.",
+    "machine": "Dumbbells",
+    "exercise": 68
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 69,
+    "fields": {
+    "explanation": "1. Stand holding dumbbells at your sides.\n2. Raise the dumbbells out to your sides until they reach shoulder height.\n3. Lower them back down to starting position and repeat for desired reps.",
+    "machine": "Dumbbells",
+    "exercise": 69
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 70,
+    "fields": {
+    "explanation": "1. Sit on a bench with back support and hold dumbbells at shoulder level.\n2. Press the dumbbells overhead until your arms are fully extended.\n3. Lower the dumbbells back down to shoulder level and repeat for desired reps.",
+    "machine": "Dumbbells",
+    "exercise": 70
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 71,
+    "fields": {
+    "explanation": "1. Attach a rope to a cable machine and adjust the pulley to chest height.\n2. Grab the rope with both hands and pull it towards your face while squeezing your shoulder blades together.\n3. Release and repeat for desired reps.",
+    "machine": "Cable machine",
+    "exercise": 71
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 72,
+    "fields": {
+    "explanation": "1. Start with the barbell on your shoulders and your hands slightly wider than shoulder-width apart.\n2. Dip down slightly and then forcefully press the barbell overhead until your arms are fully extended.\n3. Lower the barbell back down to your shoulders and repeat for desired reps.",
+    "machine": "Barbell",
+    "exercise": 72
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 73,
+    "fields": {
+    "explanation": "1. Attach a handle to a cable machine and adjust the pulley to shoulder height.\n2. Stand with the cable handle to your side and raise the handle out to your side until it reaches shoulder height.\n3. Lower it back down to starting position and repeat for desired reps.",
+    "machine": "Cable machine",
+    "exercise": 73
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 74,
+    "fields": {
+    "explanation": "1. Bend forward at the waist with your knees slightly bent and hold dumbbells at your sides.\n2. Raise the dumbbells out to your sides until they reach shoulder height.\n3. Lower them back down to starting position and repeat for desired reps.",
+    "machine": "Dumbbells",
+    "exercise": 74
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 75,
+    "fields": {
+    "explanation": "1. Sit on a bench with back support and hold a barbell at shoulder level.\n2. Press the barbell overhead until your arms are fully extended.\n3. Lower the barbell back down to shoulder level and repeat for desired reps.",
+    "machine": "Barbell",
+    "exercise": 75
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 76,
+    "fields": {
+    "explanation": "1. The dumbbell front raise targets the front deltoids.\n2. Hold a dumbbell in each hand with your palms facing your body.\n3. Raise the weights straight in front of you until they are at shoulder height, then lower them back down.\n4. Repeat for desired number of reps.",
+    "machine": "Dumbbells",
+    "exercise": 76
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 77,
+    "fields": {
+    "explanation": "1. The landmine press targets the shoulders, triceps, and chest.\n2. Place one end of a barbell in a landmine attachment or secure it in a corner.\n3. Hold the other end of the barbell with one hand at shoulder height.\n4. Press the weight overhead, then lower it back down.\n5. Repeat for desired number of reps, then switch sides.",
+    "machine": "Barbell and landmine attachment",
+    "exercise": 77
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 78,
+    "fields": {
+    "explanation": "1.The cable reverse fly targets the rear deltoids.\n2. Attach two D-handles to the high pulleys on a cable machine.\n3. Stand in the middle of the machine and grab one handle in each hand with your palms facing down.\n4. Pull the handles away from each other, squeezing your shoulder blades together, then slowly return to the starting position.\n5. Repeat for desired number of reps.",
+    "machine": "Cable machine with D-handles",
+    "exercise": 78
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 79,
+    "fields": {
+    "explanation": "1. The reverse pec deck targets the rear deltoids.\n2. Adjust the seat and handles so that your elbows are at shoulder height and your hands are behind your body.\n3. Squeeze your shoulder blades together and bring your arms forward, then slowly return to the starting position.\n3. Repeat for desired number of reps.",
+    "machine": "Reverse pec deck machine",
+    "exercise": 79
+    }
+  },
+  {
+    "model": "skooba.info",
+    "pk": 80,
+    "fields": {
+    "explanation": "1. The kettlebell overhead press targets the shoulders and triceps.\n2. Hold a kettlebell in each hand at shoulder height, then press them overhead until your arms are fully extended.\n3. Lower the weight back down to your shoulders and repeat for desired number of reps.",
+    "machine": "Kettlebells",
+    "exercise": 80
+    }
+  }
+
+
+]

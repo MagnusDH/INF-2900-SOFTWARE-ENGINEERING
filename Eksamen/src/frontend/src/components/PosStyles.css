@@ -1,0 +1,73 @@
+.container {
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 30px 30px 0px 80px;
+}
+  
+.container h2 {
+  text-align: left;
+}
+
+/* button {
+  background-color: #6c6f6c;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 9px;
+  cursor: pointer;
+  border-radius: 7px;
+  cursor: pointer;
+  width: 100px;
+  
+  
+} */
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  background-color: #2d0d6d;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+  padding: 12px 24px;
+  margin-bottom: 2px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 7px;
+  width: 150px;
+}
+
+.button:hover {
+  background-color: #e573b3;
+}
+
+.button:focus {
+  outline: none;
+  box-shadow: 0px 0px 0px 3px rgba(249, 168, 212, 0.4);
+}
+
+.button:active {
+  transform: translateY(2px);
+}
+
+.button.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.button.disabled:hover {
+  background-color: #f9a8d4;
+}

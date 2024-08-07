@@ -1,0 +1,75 @@
+.buttons {
+    display: flex;
+    flex-direction: column;
+}
+
+.select-muscle-button.btn.btn-secondary{
+    margin:auto;
+    margin-top: 5px;
+    display: block;
+    padding: 6px;
+}
+.collapse-box {
+    visibility: visible;
+
+    /* display: inline-block; */
+}
+.muscle-groups {
+    /* border-style: dotted; */
+    display: flex;
+    flex-direction: column;
+}
+
+.muscle_type_selected.btn.btn-secondary {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+}
+.muscle_type.btn.btn-secondary {
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.selected_muscle_group.collapse {
+    visibility: visible;
+}
+.selected_muscle_group_contents {
+    display: flex;
+    flex-wrap: wrap;
+}
+.exercise_selected.btn.btn-secondary {
+    color: lime;
+
+}
+
+.selected-exercises-content {
+    margin: auto;
+    text-align: center;
+}
+.RepetitionInput {
+    display: block;
+}
+
+.SetsInput {
+    display: block;
+}
+
+.RestInput {
+    display: block;
+
+}
+.delete_button {
+    display: block;
+    width: auto;
+    margin: auto;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.create_workout_button {
+    display: block;
+    margin: auto;
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "model": "skooba.Workout",
+    "pk": 1,
+    "fields": { "name": "Workout 1", "user": 1 }
+  },
+  {
+    "model": "skooba.Workout",
+    "pk": 2,
+    "fields": { "name": "Workout 2", "user": 2 }
+  },
+  {
+    "model": "skooba.Workout",
+    "pk": 3,
+    "fields": { "name": "Workout 3", "user": 3 }
+  }
+]

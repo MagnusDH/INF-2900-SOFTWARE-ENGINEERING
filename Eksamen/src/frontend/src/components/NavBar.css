@@ -1,0 +1,66 @@
+
+@import url("../images/concept/fonts/Exo.css");
+
+
+.navBar {
+    /* background-color: rgb(77, 0, 0); */
+    background-color: rgb(0, 42, 77);
+    font-family: "Exo", sans-serif;
+    background-color: rgb(45, 13, 109);
+    position: fixed;    
+    top: 0px;
+    right: 0px;
+    left: 0px;    
+    padding-top: 50px;
+}
+
+.siteTitle {
+    font-family: "Exo", sans-serif;
+    position: fixed;
+    left: 90px;
+    top: 25px;
+    font-size: 40px;
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+}
+
+.navBarPicture {
+    position: fixed;
+    left: 10px;
+    top: 16px;
+    font-size: 40px;
+    /* border-radius: 50%; */
+    height: 70px;
+    width: 280px;
+}
+
+
+ul {
+    color: rgb(164, 55, 219);
+    font-family: "Exo", sans-serif;
+    list-style: none; 
+    display: flex;
+    margin-top: center;
+    gap: 20px;
+    float: right;
+    padding-right: 20px;
+    color: rgb(164, 55, 219);
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+}
+
+.siteTitle:hover{
+    /* background-color: rgb(0, 51, 145); */
+    font-size: 45px;
+}
+
+li:hover {
+    font-size: 30px;
+} 
+
+
+.navItem {
+    color: red;
+} 
+
+
+
+

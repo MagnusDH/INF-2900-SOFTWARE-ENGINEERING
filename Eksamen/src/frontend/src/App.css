@@ -1,0 +1,107 @@
+@import url("../src/images/concept/fonts/Exo.css");
+
+#root {
+  font-family: "Exo", sans-serif;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+}
+.logo:hover {
+  font-family: "Exo", sans-serif;
+  filter: drop-shadow(0 0 2em #ff649daa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* .muscle-groups {
+  display: flex;
+  flex-direction: column;
+  padding: 2em;
+}
+
+.exercise_selected {
+  color: #a0a49f
+} */
+
+/* .buttons {
+  
+  display: flex;
+  flex-direction: column;
+}
+
+.show-selected {
+  display: flex;
+  flex-direction: row;
+
+  padding: 2em;
+}
+.RepetitionInput{
+  width: 25px
+}
+
+.SetsInput{
+  width: 25px;
+  max-width: 50px;
+}
+.RestInput{
+  width: 25px;
+} */
+
+.button {
+  background-color: #f9a8d4;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 12px 24px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Not sure if correct position, move if needed. Used in ExerciseList.tsx */
+.exercise-list {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+/* .HomePagePicture {
+  position: fixed;
+  left: 700px;
+  top: 160px;
+  height: 70px;
+  width: 280px;
+} */

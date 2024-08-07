@@ -1,0 +1,742 @@
+[
+    {
+        "model": "skooba.Exercise",
+        "pk": 1,
+        "fields": {
+            "name": "Barbell Bench Press",
+            "category": "Chest",
+            "main_muscle": "Chest"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 2,
+        "fields": {
+            "name": "Barbell Squat",
+            "category": "Legs",
+            "main_muscle": "Quadriceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 3,
+        "fields": {
+            "name": "Deadlift",
+            "category": "Back",
+            "main_muscle": "Lower Back"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 4,
+        "fields": {
+            "name": "Barbell Curl",
+            "category": "Arms",
+            "main_muscle": "Biceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 5,
+        "fields": {
+            "name": "Tricep Dips",
+            "category": "Arms",
+            "main_muscle": "Triceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 6,
+        "fields": {
+            "name": "Lunges",
+            "category": "Legs",
+            "main_muscle": "Glutes"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 7,
+        "fields": {
+            "name": "Push-Ups",
+            "category": "Chest",
+            "main_muscle": "Chest"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 8,
+        "fields": {
+            "name": "Chin-Ups",
+            "category": "Back",
+            "main_muscle": "Lats"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 9,
+        "fields": {
+            "name": "Bicep Hammer Curl",
+            "category": "Arms",
+            "main_muscle": "Biceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 10,
+        "fields": {
+            "name": "Barbell Shrugs",
+            "category": "Back",
+            "main_muscle": "Traps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 11,
+        "fields": {
+            "name": "Dumbbell Bicep Curl",
+            "category": "Arms",
+            "main_muscle": "Biceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 12,
+        "fields": {
+            "name": "Tricep Extension",
+            "category": "Arms",
+            "main_muscle": "Triceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 13,
+        "fields": {
+            "name": "Barbell Squat",
+            "category": "Legs",
+            "main_muscle": "Quadriceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 14,
+        "fields": {
+            "name": "Glute Bridge",
+            "category": "Legs",
+            "main_muscle": "Glutes"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 15,
+        "fields": {
+            "name": "Deadlift",
+            "category": "Back",
+            "main_muscle": "Lower Back"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 16,
+        "fields": {
+            "name": "Push-up to Side Plank",
+            "category": "Chest",
+            "main_muscle": "Chest"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 17,
+        "fields": {
+            "name": "Dumbbell Pullover",
+            "category": "Chest",
+            "main_muscle": "Chest"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 18,
+        "fields": {
+            "name": "Standing Military Press",
+            "category": "Shoulders",
+            "main_muscle": "Shoulders"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 19,
+        "fields": {
+            "name": "Dumbbell Fly",
+            "category": "Chest",
+            "main_muscle": "Chest"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 20,
+        "fields": {
+            "name": "Leg Press",
+            "category": "Legs",
+            "main_muscle": "Quadriceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 21,
+        "fields": {
+            "name": "Seated Row",
+            "category": "Back",
+            "main_muscle": "Lats"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 22,
+        "fields": {
+            "name": "Cable Curl",
+            "category": "Arms",
+            "main_muscle": "Biceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 23,
+        "fields": {
+            "name": "Skull Crusher",
+            "category": "Arms",
+            "main_muscle": "Triceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 24,
+        "fields": {
+            "name": "Step-ups",
+            "category": "Legs",
+            "main_muscle": "Quadriceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 25,
+        "fields": {
+            "name": "Lat Pull-Down",
+            "category": "Back",
+            "main_muscle": "Lats"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 26,
+        "fields": {
+            "name": "Incline Bench Press",
+            "category": "Chest",
+            "main_muscle": "Chest"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 27,
+        "fields": {
+            "name": "Reverse Fly",
+            "category": "Back",
+            "main_muscle": "Rear Deltoids"
+        }
+    },
+
+    
+
+    {
+        "model": "skooba.Exercise",
+        "pk": 28,
+        "fields": {
+            "name": "Bent Over Row",
+            "category": "Back",
+            "main_muscle": "Lats"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 29,
+        "fields": {
+            "name": "Hyperextensions",
+            "category": "Back",
+            "main_muscle": "Lower Back"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 30,
+        "fields": {
+            "name": "Rack Pulls",
+            "category": "Back",
+            "main_muscle": "Traps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 31,
+        "fields": {
+            "name": "Pulldown with Resistance Band",
+            "category": "Back",
+            "main_muscle": "Lats"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 32,
+        "fields": {
+            "name": "Single Arm Dumbbell Row",
+            "category": "Back",
+            "main_muscle": "Lats"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 33,
+        "fields": {
+            "name": "Inverted Row",
+            "category": "Back",
+            "main_muscle": "Lats"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 34,
+        "fields": {
+            "name": "Seated Close-Grip Cable Rows",
+            "category": "Back",
+            "main_muscle": "Lats"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 35,
+        "fields": {
+            "name": "Prone T Raises",
+            "category": "Back",
+            "main_muscle": "Upper Back"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 36,
+        "fields": {
+            "name": "Swiss Ball Hyperextensions",
+            "category": "Back",
+            "main_muscle": "Lower Back"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 37,
+        "fields": {
+            "name": "Lying T-Bar Rows",
+            "category": "Back",
+            "main_muscle": "Lats"
+        }
+    },
+
+
+
+    {
+        "model": "skooba.Exercise",
+        "pk": 38,
+        "fields": {
+        "name": "Bulgarian Split Squat",
+        "category": "Legs",
+        "main_muscle": "Quadriceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 39,
+        "fields": {
+        "name": "Romanian Deadlifts",
+        "category": "Legs",
+        "main_muscle": "Hamstrings"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 40,
+        "fields": {
+        "name": "Box Jumps",
+        "category": "Legs",
+        "main_muscle": "Quadriceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 41,
+        "fields": {
+        "name": "Leg Curls",
+        "category": "Legs",
+        "main_muscle": "Hamstrings"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 42,
+        "fields": {
+        "name": "Pistol Squats",
+        "category": "Legs",
+        "main_muscle": "Quadriceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 43,
+        "fields": {
+        "name": "Sumo Deadlifts",
+        "category": "Legs",
+        "main_muscle": "Quadriceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 44,
+        "fields": {
+        "name": "Calf Raises",
+        "category": "Legs",
+        "main_muscle": "Calves"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 45,
+        "fields": {
+        "name": "Hack Squats",
+        "category": "Legs",
+        "main_muscle": "Quadriceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 46,
+        "fields": {
+        "name": "Single Leg Hip Thrusts",
+        "category": "Legs",
+        "main_muscle": "Glutes"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 47,
+        "fields": {
+        "name": "Sled Push/Pull",
+        "category": "Legs",
+        "main_muscle": "Quadriceps"
+        }
+    },
+
+
+
+    {
+        "model": "skooba.Exercise",
+        "pk": 48,
+        "fields": {
+        "name": "Preacher curls",
+        "category": "Arms",
+        "main_muscle": "Biceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 49,
+        "fields": {
+        "name": "Reverse curls",
+        "category": "Arms",
+        "main_muscle": "Biceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 50,
+        "fields": {
+        "name": "Concentration curls",
+        "category": "Arms",
+        "main_muscle": "Biceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 51,
+        "fields": {
+        "name": "Close-grip bench press",
+        "category": "Arms",
+        "main_muscle": "Triceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 52,
+        "fields": {
+        "name": "Zottman curls",
+        "category": "Arms",
+        "main_muscle": "Biceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 53,
+        "fields": {
+        "name": "Spider curls",
+        "category": "Arms",
+        "main_muscle": "Biceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 54,
+        "fields": {
+        "name": "Wrist curls",
+        "category": "Arms",
+        "main_muscle": "Forearms"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 55,
+        "fields": {
+        "name": "Tricep kickbacks",
+        "category": "Arms",
+        "main_muscle": "Triceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 56,
+        "fields": {
+        "name": "Overhead tricep extension",
+        "category": "Arms",
+        "main_muscle": "Triceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 57,
+        "fields": {
+        "name": "Chin-ups",
+        "category": "Arms",
+        "main_muscle": "Biceps"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 58,
+        "fields": {
+        "name": "Cable crossover",
+        "category": "Chest",
+        "main_muscle": "Pectoralis major"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 59,
+        "fields": {
+        "name": "Chest press machine",
+        "category": "Chest",
+        "main_muscle": "Pectoralis major"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 60,
+        "fields": {
+        "name": "Decline bench press",
+        "category": "Chest",
+        "main_muscle": "Lower pectoralis major"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 61,
+        "fields": {
+        "name": "Dumbbell bench press",
+        "category": "Chest",
+        "main_muscle": "Pectoralis major"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 62,
+        "fields": {
+        "name": "Floor press",
+        "category": "Chest",
+        "main_muscle": "Pectoralis major"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 63,
+        "fields": {
+        "name": "Guillotine press",
+        "category": "Chest",
+        "main_muscle": "Clavicular head of the pectoralis major"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 64,
+        "fields": {
+        "name": "Pec deck machine",
+        "category": "Chest",
+        "main_muscle": "Pectoralis major"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 65,
+        "fields": {
+        "name": "Plyometric push-ups",
+        "category": "Chest",
+        "main_muscle": "Pectoralis major"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 66,
+        "fields": {
+        "name": "Medicine ball push-ups",
+        "category": "Chest",
+        "main_muscle": "Pectoralis major"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 67,
+        "fields": {
+        "name": "Swiss ball dumbbell chest press",
+        "category": "Chest",
+        "main_muscle": "Pectoralis major"
+        }
+    },
+
+
+
+
+    {
+        "model": "skooba.Exercise",
+        "pk": 68,
+        "fields": {
+        "name": "Arnold press",
+        "category": "Shoulders",
+        "main_muscle": "Deltoids"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 69,
+        "fields": {
+        "name": "Dumbbell lateral raise",
+        "category": "Shoulders",
+        "main_muscle": "Lateral deltoid"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 70,
+        "fields": {
+        "name": "Seated dumbbell press",
+        "category": "Shoulders",
+        "main_muscle": "Deltoids"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 71,
+        "fields": {
+        "name": "Cable face pulls",
+        "category": "Shoulders",
+        "main_muscle": "Rear deltoids"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 72,
+        "fields": {
+        "name": "Barbell push press",
+        "category": "Shoulders",
+        "main_muscle": "Deltoids"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 73,
+        "fields": {
+        "name": "Cable lateral raise",
+        "category": "Shoulders",
+        "main_muscle": "Lateral deltoid"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 74,
+        "fields": {
+        "name": "Bent-over lateral raise",
+        "category": "Shoulders",
+        "main_muscle": "Rear deltoids"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 75,
+        "fields": {
+        "name": "Seated barbell press",
+        "category": "Shoulders",
+        "main_muscle": "Deltoids"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 76,
+        "fields": {
+        "name": "Dumbbell front raise",
+        "category": "Shoulders",
+        "main_muscle": "Anterior deltoid"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 77,
+        "fields": {
+        "name": "Landmine press",
+        "category": "Shoulders",
+        "main_muscle": "Deltoids"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 78,
+        "fields": {
+        "name": "Cable reverse fly",
+        "category": "Shoulders",
+        "main_muscle": "Rear deltoids"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 79,
+        "fields": {
+        "name": "Reverse pec deck",
+        "category": "Shoulders",
+        "main_muscle": "Rear deltoids"
+        }
+    },
+    {
+        "model": "skooba.Exercise",
+        "pk": 80,
+        "fields": {
+        "name": "Kettlebell overhead press",
+        "category": "Shoulders",
+        "main_muscle": "Shoulders"
+        }
+    }
+
+
+
+
+]
+
+
+
